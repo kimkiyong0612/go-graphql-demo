@@ -1,1 +1,2 @@
 # go-graphql-demo
+WIP
